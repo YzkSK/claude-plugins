@@ -1,0 +1,17 @@
+{
+  "name": "yzk-plugins",
+  "description": "yzk が作った Claude Code 用のプラグイン集",
+  "owner": { "name": "yzk" },
+  "plugins": [
+    {
+      "name": "release",
+      "source": "./plugins/release",
+      "description": "前回のタグからの変更をまとめたパッチノートを書いて、GitHub Release を公開する"
+    },
+    {
+      "name": "code-quality",
+      "source": "./plugins/code-quality",
+      "description": "読みやすいコードを書くための実装指針と、可読性・保守性のレビュー"
+    }
+  ]
+}

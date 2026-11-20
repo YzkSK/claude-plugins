@@ -1,0 +1,6 @@
+{
+  "name": "code-quality",
+  "version": "1.0.0",
+  "description": "読みやすいコードを書くための実装指針と、可読性・保守性のレビュー",
+  "author": { "name": "yzk" }
+}

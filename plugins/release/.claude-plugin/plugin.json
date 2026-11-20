@@ -1,0 +1,6 @@
+{
+  "name": "release",
+  "version": "1.0.0",
+  "description": "前回のタグからの変更をまとめたパッチノートを書いて、GitHub Release を公開する",
+  "author": { "name": "yzk" }
+}
